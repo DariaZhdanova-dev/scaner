@@ -1,0 +1,1 @@
+from scaner.adapter import ScanerAdapter
